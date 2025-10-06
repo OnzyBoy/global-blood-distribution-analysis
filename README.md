@@ -42,7 +42,7 @@ This dashboard provides insights into:
 - **Source:** [Global Blood Group Distribution Worldwide Dataset – Kaggle](https://www.kaggle.com/datasets/shuvokumarbasak4004/global-blood-group-distribution-worldwide-dataset)  
 - **Attributes:** Country, Blood Type, Percentage, Continent, Population  
 
-*Note: Only countries whose percentage total came to 100% were used.*
+*Note: Some countries percentage total for blood types didn't come to 100%.*
 
 ---
 
